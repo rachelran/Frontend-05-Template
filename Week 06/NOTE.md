@@ -73,6 +73,6 @@ BNF规定是推导规则(产生式)的集合，写为：
 - number 
 - symbol 
 注意： 
-1. 因为undefined是一个变量而不是关键字，也就是说undefined的值是有可能被修改的，为了避免这个错误，用void 0 俩代替undefined 
+1. 因为undefined是一个变量而不是关键字，也就是说undefined的值是有可能被修改的，为了避免这个错误，用void 0 代替undefined 
 2. undefined表示的只声明了变量但是没有定义，而null表示的是定义了变量但是为空 
 3. 对象的定义是属性的集合，包括数据属性和访问器属性，都是key-value结构的,key可以是字符串或者是symbol类型 
