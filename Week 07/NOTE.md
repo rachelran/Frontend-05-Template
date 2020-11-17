@@ -62,3 +62,5 @@ Conditional 三目运算符，可以某些地方替代if else，遵循短路原�
 
 Exponental 右运算符 ** 乘方
 javascript唯一一个右结合的运算符 3**2**3 = 3**8
+
+https://segmentfault.com/a/1190000014383545?utm_source=sf-related
