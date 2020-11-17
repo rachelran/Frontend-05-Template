@@ -72,6 +72,7 @@ BNF规定是推导规则(产生式)的集合，写为：
 - string 
 - number 
 - symbol   
+
 注意：   
 1. 因为undefined是一个变量而不是关键字，也就是说undefined的值是有可能被修改的，为了避免这个错误，用void 0 代替undefined 
 2. undefined表示的只声明了变量但是没有定义，而null表示的是定义了变量但是为空 
