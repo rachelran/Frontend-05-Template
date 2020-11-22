@@ -105,12 +105,6 @@ javascript唯一一个右结合的运算符 3**2**3 = 3**8
 # 宏任务和微任务
 - 宏任务（js引擎的任务,最大颗粒度）
 - 微任务（Promise产生微任务）
-函数调用（Execution Context）
-语句/声明（Completion Record）
-表达式（Reference）
-直接量/变量/this...
-事件循环
-获取代码 ---> 执行代码 ---> 等待 ---> 获取代码 ....
 
 # 函数调用
 - Execution Context Stack： 函数调用会形成执行上下文栈
